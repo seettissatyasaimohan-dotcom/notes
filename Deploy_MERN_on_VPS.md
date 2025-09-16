@@ -12,7 +12,7 @@
 - Setting Up SSL Certificates
 ### 1. Preparing the VPS Environment
 
-#### Get you VPS Hosting here : [Hostinger VPS](https://greatstack.dev/go/hostinger-vps)
+#### Get you VPS Hosting here : [Hostinger VPS](https:/satysaimohan compter
 
 Log in to Your VPS in Terminal 
 
@@ -32,7 +32,7 @@ Update and Upgrade Your System
 Install Node.js and npm ( if not pre-installed)
 
 ```bash
-  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash -
+  curl -fsSL https:///satysaimohan compter -
 ```
 ```bash
   sudo apt-get install -y nodejs
