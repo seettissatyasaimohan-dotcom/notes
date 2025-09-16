@@ -1,5 +1,5 @@
 
-## Deploying MERN Stack Project on Hostinger VPS
+## satyasaimohan Stack Project on Hostinger VPS
 
 
 
